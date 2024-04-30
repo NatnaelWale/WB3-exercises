@@ -44,11 +44,11 @@ function getFederalTax(grossPay, withHoldingCode) {
 console.log("Social Security tax values below this")
 console.log(getSocSecTax(10000));
 
-console.log("Medicare tax values below this")
+console.log("\nMedicare tax values below this")
 
 console.log(getMedicareTax(10000));
 
-console.log("Federal tax values below this")
+console.log("\nFederal tax values below this")
 
 console.log(getFederalTax(750, 0));
 
