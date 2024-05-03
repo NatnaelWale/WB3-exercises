@@ -44,18 +44,18 @@ if (firstNameIndexEnd == "-1") {
 }
 
 //Index Values 0123
-var person1 = "Cher";
+// var person1 = "Cher";
 
 //Index Values 01234567891
 var person2 = "Brenda Kaye";
 
-//Index Values 012345678911234
-var person3 = "Dana Lynn Wyatt";
+// //Index Values 012345678911234
+// var person3 = "Dana Lynn Wyatt";
 
-console.log(parseAndDisplayName(person1));
-console.log("-----------------------------")
+// console.log(parseAndDisplayName(person1));
+// console.log("-----------------------------")
 console.log(parseAndDisplayName(person2));
 console.log("-----------------------------")
-console.log(parseAndDisplayName(person3));
+// console.log(parseAndDisplayName(person3));
 
 
